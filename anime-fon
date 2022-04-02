@@ -10,7 +10,7 @@
   line-height: 32px;
   color: #ad3f9b;
   background-color: #e9fafe;
-  background-image: url("https://raw.githubusercontent.com/AmbraAttori/howtobeanimegirl/main/anime-fon.jpg");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/howtobeanimegirl/main/anime-fon.JPG");
   background-repeat: no-repeat;
   background-position: top center;
 }

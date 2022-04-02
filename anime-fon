@@ -10,7 +10,7 @@
   line-height: 32px;
   color: #ad3f9b;
   background-color: #e9fafe;
-  background-image: url("https://raw.githubusercontent.com/AmbraAttori/howtobeanimegirl/main/anime-fon.JPG");
+  background-image: url("main/anime-fon.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -49,7 +49,7 @@
   padding-right: 6px;
   background: #d6aedb;
   mix-blend-mode: multiply;
-  background-image: url("img/email3.png");
+  background-image: url("main/email3.png");
   background-repeat: no-repeat;
   border-radius: 10px;
 }
@@ -58,7 +58,7 @@
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("main/icon-phone-header.svg");
 }
 
 .hero-image {
@@ -155,11 +155,11 @@
 }
 
 .skill-html {
-  background-image: url("img/spatb.png");
+  background-image: url("main/spatb.png");
 }
 
 .skill-css {
-  background-image: url("img/hui.png");
+  background-image: url("main/hui.png");
 }
 
 .level {
@@ -185,7 +185,7 @@ text-decoration: underline;
 
 .portfolio {
   margin: 0;
-  background-image: url("img/pareo.png");
+  background-image: url("main/pareo.png");
 background-repeat: no-repeat; 
 }
 
@@ -238,26 +238,21 @@ background-repeat: no-repeat;
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/email4.png");
-}
-
-.footer-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("img/main4.png");
 }
 
 
 .noanime {
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/fon2.jpg");
+  background-image: url("main/fon2.jpg");
 }
 
 
 .noanime .header-email {
   background: #9ca0ce;
   mix-blend-mode: multiply;
-  background-image: url("https://raw.githubusercontent.com/AmbraAttori/howtobeanimegirl/main/email2.png.png");
+  background-image: url("main/email2.png.png");
   text-decoration: none;
   background-repeat: no-repeat;
 }
@@ -312,7 +307,7 @@ background-repeat: no-repeat;
 
 .noanime .footer-email {
   padding-left: 30px;
-  background-image: url("img/email4.png");
+  background-image: url("main/email4.png");
 }
 
 

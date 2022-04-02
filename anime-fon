@@ -257,7 +257,7 @@ background-repeat: no-repeat;
 .noanime .header-email {
   background: #9ca0ce;
   mix-blend-mode: multiply;
-  background-image: url("img/email2.png");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/howtobeanimegirl/main/email2.png.png");
   text-decoration: none;
   background-repeat: no-repeat;
 }
